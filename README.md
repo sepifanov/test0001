@@ -1,6 +1,3 @@
-test1 commit3
-<<<<<<< HEAD
+test1 commit4
 newb
-=======
-master
->>>>>>> master
+* hello ubuntu!
